@@ -78,3 +78,6 @@ are supposed to move a keyframe up or down in the keyframes list. But this featu
 
 #### Sample kick motion
 * A sample kick motion for Nao type 0 is availabe in createdKicks folder. It can be loaded by Ctrl+o shortcut or using `file` menu.
+
+#### Motion editor new link
+* Current repository will not be updated in the future. Please refer to the new link of motion editor repository: __https://github.com/AIUT3D/aiut3d-motion-editor__.
